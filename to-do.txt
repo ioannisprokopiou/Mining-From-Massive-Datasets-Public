@@ -1,0 +1,32 @@
+- Exploratory Analysis
+    - Label frequency
+    - Word frequency in title and description
+    - Null labels (removed)
+    - Min max, average label count
+    - Title and description inclusion of labels
+
+- Supervised approaches
+    - Dimensionality reduction
+    - 4 classifiers evaluation
+    - Different vectorization options
+        - TFIDF X
+        - Combine Title + description
+            - concat
+            - weighted
+    - Naive Bayes
+    - SVM
+        - linear
+        - poly
+        - etc.
+    - Neural Networks
+        - linear
+        - transformers
+        - bert etc.
+
+- Unsupervised
+    - Dimensionality reduction
+    - k-means 
+    - DBSCAN
+    - k-NN
+
+- Visualizations
